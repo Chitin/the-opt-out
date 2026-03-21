@@ -27,12 +27,12 @@
 	"private": true,
 	"scripts": {
 		"astro": "astro",
-		"build": "bunx --bun astro build",
+		"build": "astro build",
 		"cf-typegen": "wrangler types",
-		"check": "bunx --bun astro build && tsc && wrangler deploy --dry-run",
+		"check": "astro build && tsc && wrangler deploy --dry-run",
 		"deploy": "wrangler deploy",
-		"dev": "bunx --bun astro dev",
-		"preview": "bunx --bun astro build && wrangler dev"
+		"dev": "astro dev",
+		"preview": "astro build && wrangler dev"
 	},
 	"type": "module"
 }
