@@ -5,31 +5,31 @@ pubDate: "May 16 2026"
 heroImage: "/jebus.jpg"
 ---
 
-The great invention of Humanity is its ability to communicate complex ideas that allows an unimaginable number of people who don't know each other and will probably never meet to coordinate their action in a manner that has given rise to every facet of our modern existence.
+The great leap of Humanity, among all other species, is its ability to communicate complex ideas to an unimaginable number of seemingly disconnected people at an impossibly large scale that affords us every facet of our modern existence.
 
-A form of communication that serves to influence mass behaviour is known as marketing.
+Keeping that in mind, a form of communication that serves to influence mass behaviour is known as marketing.
 
 If religion is the greatest execution of marketing, then Christianity is the greatest execution of religion.
 
 My niche interest is the life and actions of a Jewish apocalyptic preacher from Galilee and the marketing machinery that made him the central figure for the largest global movement and collective identity in the history of mankind.
 
-> **Please note:** Analyzing the mechanics of how an idea spread doesn't inherently pass judgment on the sincerity of the people spreading it. In academic religious studies, "marketing" is essentially the study of missiology, rhetoric, and cultural adaptation.
+> **Please note:** Analyzing the mechanics of how an idea spread doesn't inherently pass judgment on the sincerity of the people spreading it. Academically speaking, "marketing" is essentially the study of missiology, rhetoric, and cultural adaptation.
 
-I have been knee-deep in this topic for the last 5 years. I have read the Old and New Testament in their entirety. I have watched countless lectures and breakdowns by the likes of Bart Ehrman and Religion for Breakfast. Every new discovery I made opened a dimension of understanding I never knew existed. 
+I have been knee-deep in this topic for the last 5 years. I have read the Old and the New Testament in their entirety. I have watched countless lectures and breakdowns by the likes of Bart Ehrman and Religion for Breakfast. Every new discovery I made opened a dimension of understanding I never knew existed. 
 
-So much of the way we engage with the world is rooted in Judeo-Christian lore. The universal symbol for healing echoes Moses’ bronze serpent, and the cross itself represents the greatest branding pivot in human history, transforming a Roman instrument of torture into a global symbol of hope and salvation. And, very relevant to blogging, the Gutenberg revolution—the printing press that changed the course of human history and educated the world through the spread of books—started with printing the Bible.
+So much of the way we engage with the world is rooted in Judeo-Christian lore. Take Superman, originally modeled after Moses, a baby placed in a vessel to escape a dying world; then over time taking on Christian themes, an only son sent by his father from the heavens to guide humanity. Or the cross itself, it represents the greatest branding pivot in human history, transforming a Roman instrument of torture into a global symbol of hope and salvation. Another example that is very relevant to blogging, the Gutenberg revolution! The printing press, that changed the course of human history and educated the world through the spread of books, started with printing the Bible.
 
-Another fascinating aspect of all this is how the story of a pacifist ascetic leads to some of the most violent, bloodthirsty groups of people that used a peaceful message of a homeless man to consolidate power and wealth by the sword.
+Another fascinating aspect of all this is how armed with the loving message of a homeless pacifist, groups of believers went on bloodsoaked crusades to ruthlessly consolidate power and wealth.
 
-There are layers and angles to this story that humanity has spent thousands of years dissecting and will more likely than not spend thousands of years more doing the same. There are new things to learn and new discoveries to unearth every single day. It has the most accessibly documented lore, and the most committed fandom I have ever encountered.
+There are layers and angles to this story that humanity has spent thousands of years dissecting, and will more likely than not continue to spend thousands of years doing the same. There are new things to learn and new discoveries to unearth every single day. It has the most accessibly documented lore, and the most committed fandom I have ever encountered.
 
 I imagine this niche interest will go on for the rest of my life. Even as I write this, the thought of it bubbles so much joy and excitement in me.
 
 If you wish to get on this wagon as well, here are a few good places to start:
 
-*   **The Prince of Egypt** (Animated Movie)
-*   **The Chosen** (The first few seasons really suck you into the belief system)
-*   **Silence** – A Martin Scorsese film with Andrew Garfield, Adam Driver, and Liam Neeson that explores the big questions of faith and belief.
-*   **BibleProject** (An excellent animated series on YouTube)
+*   **The Prince of Egypt** – DreamWorks' first Animated Movie
+*   **The Chosen** – The first few seasons really suck you into the belief system
+*   **Silence** – A breathtaking Martin Scorsese film with Andrew Garfield, Adam Driver, and Liam Neeson that explores the big questions of faith in feudal Japan.
+*   **BibleProject** – A beautifully animated series on YouTube
 
 Welcome to the Fan Club.
