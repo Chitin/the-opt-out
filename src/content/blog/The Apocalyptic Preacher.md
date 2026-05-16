@@ -5,9 +5,9 @@ pubDate: "May 16 2026"
 heroImage: "/jebus.jpg"
 ---
 
-The great leap of Humanity, among all other species, is its ability to communicate complex ideas to an unimaginable number of seemingly disconnected people at an impossibly large scale that affords us every facet of our modern existence.
+Humanity’s greatest evolutionary leap is our ability to communicate complex ideas, allowing countless disconnected strangers to cooperate at a scale that built the modern world.
 
-Keeping that in mind, a form of communication that serves to influence mass behaviour is known as marketing.
+A form of communication that serves to influence mass behaviour is known as marketing.
 
 If religion is the greatest execution of marketing, then Christianity is the greatest execution of religion.
 
