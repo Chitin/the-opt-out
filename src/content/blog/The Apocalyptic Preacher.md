@@ -2,7 +2,7 @@
 title: "The Apocalyptic Preacher of Galilee"
 description: "A niche study of the greatest pivot in Human History."
 pubDate: "May 16 2026"
-heroImage: ""
+heroImage: "/jebus.jpg"
 ---
 
 The great invention of Humanity is its ability to communicate complex ideas that allows an unimaginable number of people who don't know each other and will probably never meet to coordinate their action in a manner that has given rise to every facet of our modern existence.
