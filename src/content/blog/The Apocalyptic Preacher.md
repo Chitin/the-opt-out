@@ -27,9 +27,9 @@ I imagine this niche interest will go on for the rest of my life. Even as I writ
 
 If you wish to get on this wagon as well, here are a few good places to start:
 
-*   **The Prince of Egypt** – DreamWorks' first Animated Movie
-*   **The Chosen** – The first few seasons really suck you into the belief system
-*   **Silence** – A breathtaking Martin Scorsese film with Andrew Garfield, Adam Driver, and Liam Neeson that explores the big questions of faith in feudal Japan.
-*   **BibleProject** – A beautifully animated series on YouTube
+*   [**The Prince of Egypt**](https://www.imdb.com/title/tt0120794/) – DreamWorks' first Animated Movie
+*   [**The Chosen**](https://www.imdb.com/title/tt9471404/) – The first few seasons really suck you into the belief system
+*   [**Silence**](https://www.imdb.com/title/tt0490215/) – A breathtaking Martin Scorsese film with Andrew Garfield, Adam Driver, and Liam Neeson that explores the big questions of faith in feudal Japan.
+*   [**BibleProject**](https://www.youtube.com/bibleproject) – A beautifully animated series on YouTube
 
 Welcome to the Fan Club.
