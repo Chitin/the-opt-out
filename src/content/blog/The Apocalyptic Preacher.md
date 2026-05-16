@@ -1,6 +1,6 @@
 ---
 title: "The Apocalyptic Preacher of Galilee"
-description: "A niche study of the greatest pivot in Human History."
+description: "Breaking down my niche interest"
 pubDate: "May 16 2026"
 heroImage: "/jebus.jpg"
 ---
@@ -9,9 +9,9 @@ Humanity’s greatest evolutionary leap is our ability to communicate complex id
 
 A form of communication that serves to influence mass behaviour is known as marketing.
 
-If religion is the greatest execution of marketing, then Christianity is the greatest execution of religion.
+I believe religion is the greatest execution of marketing, and Christianity is the greatest execution of religion.
 
-My niche interest is the life and actions of a Jewish apocalyptic preacher from Galilee and the marketing machinery that made him the central figure for the largest global movement and collective identity in the history of mankind.
+This is my niche interest, the life and actions of a Jewish apocalyptic preacher from Galilee and the marketing machinery that made him the central figure for the largest global movement and collective identity in the history of mankind.
 
 > **Please note:** Analyzing the mechanics of how an idea spread doesn't inherently pass judgment on the sincerity of the people spreading it. Academically speaking, "marketing" is essentially the study of missiology, rhetoric, and cultural adaptation.
 
